@@ -17,4 +17,4 @@ The dataset used (`FTSE.csv`) contains historical stock prices of the FTSE 100 i
 - `Final_UK_Stock_Market_Prediction.ipynb`: Full model implementation and evaluation
 
 ## Author
-- [Your Name]
+- Basavaraj L Hiremath
